@@ -15,7 +15,7 @@ spec:
         service: super-coworking
     spec:
       containers:
-        - image: 627524678295.dkr.ecr.us-east-1.amazonaws.com/super-prj3:latest
+        - image: 939652184899.dkr.ecr.us-east-1.amazonaws.com/super-prj3:latest
           name: super-coworking
           imagePullPolicy: Always
           ports:
